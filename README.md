@@ -1,6 +1,6 @@
 # Awesome pure OOP
 
-This repo contains a list of links to the best articles about pure object-oriented programming.
+This repo contains a list of links to the best resources and books about pure object-oriented programming.
 Pure object oriented programming means the following:
 - objects are self-contained entities which communicate with each other by sending messages to each other (in terms of mainstream languages 'by calling methods')
 - objects provide a limited set of services and their internals can not be controlled from outside
