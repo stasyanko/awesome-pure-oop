@@ -7,7 +7,6 @@ Pure object oriented programming means the following:
 - no getters/setters
 - no static methods
 - objects, that contain state, must be immutable
-- etc.
 
 ## Table of Contents
 
